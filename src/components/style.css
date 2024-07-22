@@ -20,7 +20,7 @@ textarea{
     margin-bottom:10px;
 }
 select,input[type="checkbox"]{
-    margin:5px;
+    margin:10px;
 }
 
 button{
@@ -29,4 +29,13 @@ button{
     padding:5px 10px;
     font-size:14px;
     cursor:pointer;
+}
+
+button:hover{
+    background-color: bisque;
+    font-size: larger;
+}
+.italic{
+    font-size: medium;
+    font-weight: 40px;
 }

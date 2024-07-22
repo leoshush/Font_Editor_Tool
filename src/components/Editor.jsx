@@ -115,7 +115,7 @@ const Editor = () => {
             </option>
           ))}
         </select>
-        <label>
+        <label className="italic">
           Italic:
           <input
             type="checkbox"
